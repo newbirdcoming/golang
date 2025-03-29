@@ -1,0 +1,18 @@
+### 常见git命令
+#### 1.1代码连接远程仓库
+![alt text](image.png)
+初始化代码：git init
+添加目录文件到暂存区  git add
+将暂存区文件上传值仓库区 git commit -m "描述"
+(第一次上传需要 连接远程) git remote add origin 地址
+将代码上传到远程仓库 git push -u origin master
+
+
+
+#### 1.2 查询命令
+查询文件状态状态 git status
+查询远程提交历史 git log
+
+
+#### 1.3常用命令
+拉取 git pull
