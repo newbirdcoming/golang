@@ -12,3 +12,4 @@ func main() {
 	fmt.Printf("2 + 4 = %d\n", resultAdd)
 	fmt.Printf("2 * 4 = %d\n", resultMultiply)111
 }
+111
