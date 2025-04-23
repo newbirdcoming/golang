@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/newbirdcoming/golang/mathutil"
+	"github.com/newbirdcoming/mathutil"
 )
 
 func main() {
